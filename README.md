@@ -4,9 +4,7 @@ Test Test Test
 
 Ed ora, cose a caso:
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+$`\sqrt{3x-1}+(1+x)^2`$
 
 ```rust
 
